@@ -1,0 +1,1 @@
+Your job is to implement two versions of the evaluate static method to recursively evaluate arithmetic expressions represented as XMLTrees. One version of the method evaluates the expression with ints and the other version uses NaturalNumbers. The expressions are stored in XML format (see below) so the program can load them as XMLTrees.
